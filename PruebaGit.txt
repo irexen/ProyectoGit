@@ -1,0 +1,2 @@
+Archivo a agregar en Staging Area.
+Modificación para el archivo en el branch primerrama.
